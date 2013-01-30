@@ -8,6 +8,11 @@
 # Java class files
 *.class
 
+# Idea project files
+*.properties
+*.iml
+build.xml
+proguard-project.txt
 # generated files
 bin/
 gen/
@@ -18,3 +23,4 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+.idea
