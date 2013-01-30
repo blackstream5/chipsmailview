@@ -3,11 +3,17 @@
               android:orientation="vertical"
               android:layout_width="fill_parent"
               android:layout_height="fill_parent"
+              android:background="@color/light"
         >
     <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Hello World, MainActivity"
+            android:text="Hello World, this will be ChipsMailAddressesWidget"
+            />
+    <ui.widgets.ChipsMailAddressesView
+            android:id="@+id/chips_mail_addresses_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             />
 </LinearLayout>
 
