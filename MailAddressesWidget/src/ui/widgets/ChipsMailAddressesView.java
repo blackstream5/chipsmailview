@@ -21,11 +21,10 @@ import java.util.ArrayList;
 
 /**
  * Created with IntelliJ IDEA.
- * User: v.garshyn
+ * User: BlackStream
  * Date: 30.01.13
  * Time: 17:06
- * To change this template use File | Settings | File Templates.
- */
+  */
 public class ChipsMailAddressesView extends TextView {
     private static final String TAG = "{ChipsMailAddressesView}";
 
